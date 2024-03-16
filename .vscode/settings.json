@@ -1,0 +1,4 @@
+{
+  "rust-analyzer.linkedProjects": [".\\hello_mod\\Cargo.toml"],
+  "rust-analyzer.showUnlinkedFileNotification": false
+}
